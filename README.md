@@ -29,7 +29,7 @@ One potential solution is to create a company mentoring program, which would hav
 
 ![eligible_mentors](https://github.com/Mishkanian/Pewlett-Hackard-Analysis/blob/main/Query%20Images/eligible_mentor_chart.png)
 
-After analyzing the copmany employment records, it is found that 1,549 current employees would qualify for becoming mentors. The percentage of title distribution in relation to total mentors and total retirees are similar. Although this is helpful, there are not enough new employees to be mentored. Therefore, if Pewlett-Hackard decides to create a mentorship program to counteract the large wave of retirement headed towards the company, it is recommended to widely expand hiring efforts.
+After analyzing the copmany employment records, it is found that 1,549 current employees would qualify for becoming mentors. Interestingly, while only 10% of mentors have the title "Senior Engineer," approximately 32.5% of retirees are Senior Engineers. Although having these mentors are helpful, there are not enough new employees to be trained. Therefore, if Pewlett-Hackard decides to create a mentorship program to counteract the large wave of retirement headed towards the company, it is recommended to widely expand hiring efforts.
 
 
 **Author: Michael Mishkanian**  
