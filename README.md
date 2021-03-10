@@ -25,7 +25,7 @@ The table below shows the number of retirement age employees born between Januar
 
 As the number of retirements begin to make an impact, Pewlett-Hackard will need to train new employees to fill these vacant positions. Eventually, there will need to be 90,398 roles filled across all departments. Even two high-level managment positions must be filled.
 
-One potential solution is to create a company mentoring program, which would have qualified, retirement-ready employees train the next generation of Pewlett-Hackard workers. After analyzing the copmany employment records, it is found that 1,549 current employees would qualify for becoming mentors. Although helpful, no amount of mentors would be enough to counteract the large wave of retirement headed towards the company because there are not enough new employees. Therefore, if Pewlett-Hackard decides to create a mentorship program, it is recommended to widely expand hiring efforts.
+One potential solution is to create a company mentoring program, which would have qualified, retirement-ready employees train the next generation of Pewlett-Hackard workers. After analyzing the copmany employment records, it is found that 1,549 current employees would qualify for becoming mentors. Although this is helpful, there are not enough new employees to be mentored. Therefore, if Pewlett-Hackard decides to create a mentorship program to counteract the large wave of retirement headed towards the company, it is recommended to widely expand hiring efforts.
 
 
 **Author: Michael Mishkanian**  
