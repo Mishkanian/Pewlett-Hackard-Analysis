@@ -18,7 +18,7 @@ The table below shows the number of retiring employees born between January 1, 1
 
 - The positions most affected by the incoming retirement wave will be "Senior Engineer" and "Senior Staff."
 - A total of **90,398** employees are retiring or nearing retirement.
-- Two managers are retiring, which is significant because there are only nine current managers.
+- [Two managers](https://github.com/Mishkanian/Pewlett-Hackard-Analysis/blob/main/Query%20Images/retiring_managers.png) are retiring, which is significant because there are only [nine current managers](https://github.com/Mishkanian/Pewlett-Hackard-Analysis/blob/main/Query%20Images/current_managers.png).
 - 1,549 current employees born between January 1, 1965 and December 31, 1965 are eligible to participate in the mentorship program.
 
 ## Summary
