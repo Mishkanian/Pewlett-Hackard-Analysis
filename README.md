@@ -1,7 +1,7 @@
 # Preparing for a Wave of Retirement
 
 ## Project Overview
-The purpose of this project is to analyze the employment database of the fictional company 'Pewlett-Hackard' to find the number of retiring employees by position. To prepare for the incoming waves of retirement, it is suggested to create a mentorship program to train the next generation of employees. The feasibility of this proposed program is also investigated.
+The purpose of this project is to analyze the employment database of the fictional company 'Pewlett-Hackard' to find the number of retiring employees by position. To prepare for the incoming waves of retirement, it is suggested to create a mentorship program to train the next generation of employees. The feasibility of this program is also investigated.
 
 ## Resources and Software
 The following six CSV data files were provided at the beginning of the analysis: 
@@ -17,9 +17,8 @@ The table below shows the number of retiring employees born between January 1, 1
 ![retiring_titles](https://github.com/Mishkanian/Pewlett-Hackard-Analysis/blob/main/Query%20Images/retiring_titles.png)
 
 - The positions most affected by the incoming retirement wave will be "Senior Engineer" and "Senior Staff."
-
 - A total of **90,398** employees are retiring or nearing retirement.
-
+- Two managers are retiring, which is significant because there are only nine current managers.
 - 1,549 current employees born between January 1, 1965 and December 31, 1965 are eligible to participate in the mentorship program.
 
 ## Summary
