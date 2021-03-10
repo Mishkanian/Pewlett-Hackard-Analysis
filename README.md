@@ -12,7 +12,7 @@ The following six CSV data files were provided at the beginning of the analysis:
 
 ## Results
 
-The table below shows the number of retiring employees born between January 1, 1952 and December 31, 1955 grouped by title in the company.
+The table below shows the number of retirement age employees born between January 1, 1952 and December 31, 1955 grouped by title in the company.
 
 ![retiring_titles](https://github.com/Mishkanian/Pewlett-Hackard-Analysis/blob/main/Query%20Images/retiring_titles.png)
 
